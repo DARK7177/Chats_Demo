@@ -1,0 +1,32 @@
+# Node.js modules
+Backend/node_modules/
+Frontend/node_modules/
+
+# Build directories
+Backend/dist/
+Frontend/dist/
+Frontend/build/
+
+# Environment files
+Backend/.env
+Frontend/.env
+
+# Logs
+Backend/logs/
+Frontend/logs/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Cache files
+*.cache
+*.tmp
+
+# Coverage output
+coverage/

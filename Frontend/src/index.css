@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.flex-shaswat:: -webkit-scrollbar {
+  display: none;
+}
